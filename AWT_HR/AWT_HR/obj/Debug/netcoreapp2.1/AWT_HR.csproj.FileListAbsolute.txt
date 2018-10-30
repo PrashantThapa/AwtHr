@@ -1,0 +1,14 @@
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\bin\Debug\netcoreapp2.1\AWT_HR.deps.json
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\bin\Debug\netcoreapp2.1\AWT_HR.runtimeconfig.json
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\bin\Debug\netcoreapp2.1\AWT_HR.runtimeconfig.dev.json
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\bin\Debug\netcoreapp2.1\AWT_HR.dll
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\bin\Debug\netcoreapp2.1\AWT_HR.pdb
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\obj\Debug\netcoreapp2.1\AWT_HR.csprojAssemblyReference.cache
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\obj\Debug\netcoreapp2.1\AWT_HR.csproj.CoreCompileInputs.cache
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\obj\Debug\netcoreapp2.1\AWT_HR.RazorAssemblyInfo.cache
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\obj\Debug\netcoreapp2.1\AWT_HR.RazorAssemblyInfo.cs
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\obj\Debug\netcoreapp2.1\AWT_HR.AssemblyInfoInputs.cache
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\obj\Debug\netcoreapp2.1\AWT_HR.AssemblyInfo.cs
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\obj\Debug\netcoreapp2.1\AWT_HR.RazorTargetAssemblyInfo.cache
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\obj\Debug\netcoreapp2.1\AWT_HR.dll
+c:\users\prashant thapa\source\repos\AWT_HR\AWT_HR\obj\Debug\netcoreapp2.1\AWT_HR.pdb
